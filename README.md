@@ -78,8 +78,6 @@ This app is configured for deployment to GitHub Pages. Run the following command
 yarn deploy
 ```
 
-The live version is available at: [https://Piyush55dude.github.io/covid19_tracer](https://Piyush55dude.github.io/covid19_tracer)
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -93,4 +91,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Mathdro](https://github.com/mathdroid/covid-19-api) for the COVID-19 API
 - [Material-UI](https://material-ui.com/) for the UI components
 - [Chart.js](https://www.chartjs.org/) for the data visualization
-- Created by [Piyush_eon](https://www.instagram.com/piyush_eon)
